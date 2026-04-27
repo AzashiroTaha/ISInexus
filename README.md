@@ -142,9 +142,9 @@ java -cp out:library/mysql-connector-j-9.6.0.jar com.isi.nexus.Main
 | JDBC Driver | mysql-connector-j 9.6.0 |
 | IDE | IntelliJ IDEA |
 
+**Note :** AI is only used for debugging not for code completion or replacement!
+
 ---
 
 ## 👨‍💻 Author
-
-Project developed as part of the **Java/SGBD** module — L2 RT/CS/SEMI  
-Institut Supérieur en Informatique (ISI) — Supervisor: **M. DIOP**
+ **Abdoulaye Taha DIOUF**
